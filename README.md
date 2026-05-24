@@ -5,7 +5,7 @@ SWORD is designed to evaluate **factual robustness and cross-lingual consistency
 
 ## Overview
 <p align="center">
-  <img src="02.results/01.Figures/00.pipeline/Fig1.Pipeline.png" width="900">
+  <img src="02.results/01.Figures/00.pipeline/Fig1.Pipeline.pdf" width="900">
 </p>
 
 ---
